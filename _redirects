@@ -1,0 +1,8 @@
+# redirect netlify sitename to your sitename for SEO purposes,
+# to avoid duplicate content.  Do this for http and https
+http://amazing-hodgkin-71458c.netlify.app https://implicitflowdetector.io/:splat !301
+https://amazing-hodgkin-71458c.netlify.app https://implicitflowdetector.io/:splat !301
+
+# also redirect http to https for your custom domain.
+# Note that netlify automatically redirects to your custom domain from the bare domain (or vice versa), so you only need one rule here.
+http://implicitflowdetector.io/* https://implicitflowdetector.io/:splat !301 
