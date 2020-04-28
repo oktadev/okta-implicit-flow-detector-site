@@ -1,0 +1,9 @@
+.themify_builder_99_row.module_row_0.module_row{background-repeat: repeat;background-attachment: scroll;background-position: center center}
+.themify_builder .text-99-0-0-0.module-text{background-repeat: repeat;padding-right:100px;padding-left:100px}
+.themify_builder .text-99-0-0-0.module-text,.themify_builder .text-99-0-0-0.module-text h1,.themify_builder .text-99-0-0-0.module-text h2,.themify_builder .text-99-0-0-0.module-text h3:not(.module-title),.themify_builder .text-99-0-0-0.module-text h4,.themify_builder .text-99-0-0-0.module-text h5,.themify_builder .text-99-0-0-0.module-text h6{color:#ffffff}
+@media screen and (max-width: 1024px) {.themify_builder .text-99-0-0-0.module-text{background-repeat: repeat}
+}
+@media screen and (max-width: 768px) {.themify_builder .text-99-0-0-0.module-text{background-repeat: repeat;padding-right:20px;padding-left:20px}
+}
+@media screen and (max-width: 480px) {.themify_builder .text-99-0-0-0.module-text{background-repeat: repeat;margin:0px}
+}
